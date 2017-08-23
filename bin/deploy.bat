@@ -1,0 +1,1 @@
+copy "target\goggle.war" "%CATALINA_HOME%\webapps\ROOT.war"
